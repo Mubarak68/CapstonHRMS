@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapstonHR", "CapstonHR.csproj", "{8E371544-4D52-4647-AFA1-987CB37A0938}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapstoneHRBackEnd", "..\CapstoneHRBackEnd\CapstoneHRBackEnd.csproj", "{5CEBB2BC-766E-4AA0-A03A-57D691FFE2CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E371544-4D52-4647-AFA1-987CB37A0938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E371544-4D52-4647-AFA1-987CB37A0938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E371544-4D52-4647-AFA1-987CB37A0938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E371544-4D52-4647-AFA1-987CB37A0938}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CEBB2BC-766E-4AA0-A03A-57D691FFE2CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CEBB2BC-766E-4AA0-A03A-57D691FFE2CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CEBB2BC-766E-4AA0-A03A-57D691FFE2CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CEBB2BC-766E-4AA0-A03A-57D691FFE2CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {931D5583-8C0B-482F-B17D-D5F332CD6C34}
+	EndGlobalSection
+EndGlobal
